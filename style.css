@@ -1,0 +1,21 @@
+#video{
+    width: 100%;
+    height: 665px;
+    border: none;
+}
+#travel_Maindiv{
+    border: 1px solid lightgray;
+}
+.travel_Maindiv img{
+    width: 100%;
+}
+.travel_Maindiv h5 , .travel_Maindiv p{
+    margin: 20px;
+}
+.library{
+    margin-bottom: 20px;
+}
+
+.contact{
+    width: 100%;
+}
